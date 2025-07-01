@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "417250253546",
+    "project_id": "my-notebook-5abfa",
+    "storage_bucket": "my-notebook-5abfa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417250253546:android:81ace5349551b06a395593",
+        "android_client_info": {
+          "package_name": "com.project.my_notebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417250253546-sngp48oakd7jfj4ub1d9osok7epciamp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4lH5kMjgG__5txpYzFtL68hx9JaDQeB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417250253546-sngp48oakd7jfj4ub1d9osok7epciamp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "417250253546-ihpe2lenh18b27m95cvcjq4n331cjfb5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myNotebook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
