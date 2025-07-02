@@ -1,16 +1,21 @@
-# my_notebook
+# Local Area Service App
 
-A new Flutter project.
+A mobile application built with Flutter to help users find and book local services like electricians, plumbers, etc.
 
-## Getting Started
+## 🔧 Features
+- Service category listing
+- Location-based service suggestions
+- Booking system (in progress)
+- Firebase integration
+- Responsive UI with MVVM architecture
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
+- Flutter & Dart
+- Firebase Auth & Firestore
+- Google Maps API
+- Android Studio
+- MVVM Pattern
 
-A few resources to get you started if this is your first Flutter project:
+## 🚧 Status
+This project is currently under development. More features and UI polish coming soon!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
